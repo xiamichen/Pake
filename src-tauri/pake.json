@@ -9,7 +9,7 @@
       "height": 780,
       "resizable": true,
       "dark_mode": false,
-      "always_on_top": false,
+      "always_on_top": true,
       "activation_shortcut": "",
       "disabled_web_shortcuts": false
     }
