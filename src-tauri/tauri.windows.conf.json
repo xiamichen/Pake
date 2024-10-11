@@ -16,7 +16,7 @@
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
         "wix": {
-          "language": ["en-US"],
+          "language": ["zh-CN"],
           "template": "assets/main.wxs"
         }
       }
